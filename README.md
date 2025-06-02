@@ -1,2 +1,2 @@
 # ElevateLabs--Lakshya-R
-Data Analyst Intern
+Data Analyst Internship
