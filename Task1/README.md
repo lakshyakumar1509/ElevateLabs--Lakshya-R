@@ -1,7 +1,7 @@
 # :bar_chart: Task 1: Data Cleaning and Preprocessing
 
 ## :rocket:  Objective:
- To clean the given dataset by removing duplicates,identifying missing values and standarizing it.
+ To clean the given dataset by removing duplicates, identifying missing values and standarizing it.
 
 ## :hammer_and_wrench: Tools Used:
 - Python
@@ -12,7 +12,7 @@
 ## :file_folder: Files Included:
 - Original Dataset
 - Cleaned Dataset
-- PJupyter Notebook
+- Jupyter Notebook
 
 ## :writing_hand: Steps Done
 - Imported the pandas library and loaded the csv data
